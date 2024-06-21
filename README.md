@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=5ma111eaf)
+![Visitor Count](https://profile-counter.glitch.me/5ma111eaf/count.svg)
 
 ## Hi, I'm a cybersecurity enthusiast and I'm good at thinking like a red teamer.
 - 👋 Hi, I’m @5ma111eaf
