@@ -11,4 +11,7 @@
 5ma111eaf/5ma111eaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5ma111eaf&show_icons=true&theme=cobalt)
