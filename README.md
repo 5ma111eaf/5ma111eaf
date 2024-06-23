@@ -1,12 +1,12 @@
 ![Visitor Count](https://profile-counter.glitch.me/5ma111eaf/count.svg)
 
 ## Hi, I'm a cybersecurity enthusiast and I'm good at thinking like a red teamer.
-- 👋 Hi, I’m @5ma111eaf
+- 👋 Hi, I’m @5ma111eaf.
 - 👀 I'm interested in network security, penetration testing.
-- 🌱 I'm currently learning Python
-- 💞️ I'm looking for like-minded friends
-- 📫 How to reach me Twitter or Gmail
-- 😄 motto: 可以摸鱼，但不能真菜
+- 🌱 I'm currently learning Python.
+- 💞️ I'm looking for like-minded friends.
+- 📫 How to reach me Twitter or Gmail.
+- 😄 motto: 可以摸鱼，但不能真菜.
 - ⚡ Fun fact: I think like a red teamer.
 
 <!---
