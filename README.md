@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning Python
 - 💞️ I'm looking for like-minded friends
 - 📫 How to reach me Twitter or Gmail
-- 😄 Pronouns: 可以摸鱼，但不能真菜
+- 😄 motto: 可以摸鱼，但不能真菜
 - ⚡ Fun fact: I think like a red teamer.
 
 <!---
