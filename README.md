@@ -1,5 +1,3 @@
-![访客](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F5ma111eaf&countColor=%23263759)
-
 ## Hi, I'm a cybersecurity enthusiast and I'm good at thinking like a red teamer.
 - 👋 Hi, I’m @5ma111eaf.
 - 👀 I'm interested in network security, penetration testing.
@@ -19,5 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=5ma111eaf&show_icons=true&theme=cobalt)
 
 ## Commonly used programming languages
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=5ma111eaf&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5ma111eaf&layout=compact)
