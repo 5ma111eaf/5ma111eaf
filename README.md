@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/5ma111eaf/count.svg)
+![访客](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F5ma111eaf&countColor=%23263759)
 
 ## Hi, I'm a cybersecurity enthusiast and I'm good at thinking like a red teamer.
 - 👋 Hi, I’m @5ma111eaf.
